@@ -1,3 +1,5 @@
+"use client";
+
 import { useRef, useState, type FC } from "react";
 import Webcam from "react-webcam";
 
