@@ -22,5 +22,3 @@ export const metadata = {
   metadataBase: new URL(defaultUrl),
   title: "BLDWKND 24",
 };
-
-export default RootLayout;
