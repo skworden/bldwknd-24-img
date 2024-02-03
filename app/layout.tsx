@@ -11,7 +11,7 @@ type LayoutProps = {
 
 const RootLayout: FC<LayoutProps> = ({ children }) => (
   <html lang="en" className="h-full w-full">
-    <body className="h-full w-full flex flex-1 items-center justify-center">
+    <body className="flex flex-1 items-center justify-center">
       {children}
     </body>
   </html>
